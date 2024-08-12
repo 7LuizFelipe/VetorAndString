@@ -1,0 +1,3 @@
+C:/Users/luizf/CLionProjects/Atvd String2/cmake-build-debug/CMakeFiles/Atvd_String2.dir
+C:/Users/luizf/CLionProjects/Atvd String2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luizf/CLionProjects/Atvd String2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
